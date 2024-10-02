@@ -4,6 +4,7 @@ body{
     margin:auto;
     color:white;
     padding-left: 20px;
+    
 }
 h1{
     color: white;
@@ -14,13 +15,18 @@ h1{
     color:yellowgreen;
     font-size: 25px;
     list-style: none;
+    font-family: "Tahoma";
 }
 .acteurs{
     list-style-type: disc;
     color: white;
+    font-size: 15px;
+    font-family: "Verdana";
 }
 
 .films{
+    font-size: 20px;
     list-style-type: upper-latin;
     color: white;
+    font-family: "Times New Roman",sans-serif;
 }
